@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">M04_FrasesDoDia</string>
+    <string name="gerar_frase">Gerar Frase</string>
+    <string name="exibir_todas">Exibir Todas</string>
+    <string name="resultado">Resultado</string>
+    <string name="imagem_com_o_logo">Imagem com o logo</string>
 </resources>
